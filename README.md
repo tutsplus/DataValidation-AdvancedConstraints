@@ -1,11 +1,9 @@
-### Envato Tuts+ Tutorial: Data Validation With Core Data: Common Constraints
+### Envato Tuts+ Tutorial: Data Validation With Core Data: Advanced Constraints
 
 #### Instructor: Bart Jacobs
 
-No matter what persistence framework an application uses, the developer decides what is stored in the application's persistent store. This also means that the developer is in charge of validating the data before it is inserted into the persistent store.
+In the previous tutorial, you learned how to define common constraints in the data model. In this tutorial, I show you how you can define more advanced constraints in code.
 
-If your application uses Core Data for persisting data, then you are in luck. The framework has a number of APIs for validating objects before they are persisted to disk. In this tutorial, I show you what options Core Data offers developers for validating objects.
-
-Source files for the Envato Tuts+ tutorial: [Data Validation With Core Data: Common Constraints](http://code.tutsplus.com/tutorials/data-validation-with-core-data-common-constraints--cms-26621)
+Source files for the Envato Tuts+ tutorial: [Data Validation With Core Data: Advanced Constraints](http://code.tutsplus.com/tutorials/data-validation-with-core-data-advanced-constraints--cms-26623)
 
 **Read this tutorial on [Envato Tuts+](https://code.tutsplus.com)**.
