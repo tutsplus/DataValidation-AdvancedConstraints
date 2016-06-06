@@ -20,9 +20,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             let user = NSManagedObject(entity: entity, insertIntoManagedObjectContext: self.managedObjectContext)
 
             // Populate Managed Object
-            user.setValue(140, forKey: "age")
+            user.setValue(44, forKey: "age")
             user.setValue("Bart", forKey: "first")
-//            user.setValue("Jacobs", forKey: "last")
+            user.setValue("Jacobs", forKey: "last")
             user.setValue("me@icloud.com", forKey: "email")
 
             do {
